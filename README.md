@@ -1,4 +1,5 @@
 # Api simples com nodeJS
+## Esse projeto foi construido usando NodeJS 16lts
 ## Passo a passo seguindo Leonardo Cod3r
 * npm init -y
 * instalar a unica depedencia do projeto Json-Server
@@ -19,6 +20,10 @@
     * "scripts": {
             "start": "json-server --watch db.json --port 3001"
         },
+
+![image](https://user-images.githubusercontent.com/23580648/152042205-932de3c3-3703-4005-95a7-02a59dba5a5a.png)
+     
+   
 * Executar a api
     * npm start
 * Fim muito feliz api pronta em menos de 10min.
