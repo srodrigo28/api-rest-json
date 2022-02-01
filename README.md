@@ -4,6 +4,10 @@
 * instalar a unica depedencia do projeto Json-Server
     * npm i --save json-server@0.17.0 -E
 * criar o db.json no raiz
+
+![image](https://user-images.githubusercontent.com/23580648/152041834-69e42c95-2281-4156-acc5-d913f865460a.png)
+
+
     * {
             "users":[
                 { "id": 1, "name": "Arthur Oliveira", "email": "aoliveira@oi.com" },
