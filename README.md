@@ -34,3 +34,6 @@
 
 ## Projeto associado com react
 * https://github.com/srodrigo28/react-requisicao-hooks
+
+## Consumindo uma API no Front-End
+* https://www.youtube.com/watch?v=vYlz3SmNXQQ
