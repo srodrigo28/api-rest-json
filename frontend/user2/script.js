@@ -2,7 +2,7 @@
 //  http://localhost:3001/users
 
 let tr = ''
-let id = 1
+let id =  4 
 let OneUser = ''
 let url = 'http://localhost:3001/users'
 
@@ -45,13 +45,3 @@ function getOneUser(){
     }).catch(error => console.log(error))
 }
 getOneUser()
-
-// function getUsers(data){
-//     console.log(data)
-//     // let output = ''
-//     // for(let user of data){
-//     //     output += `<li>${user.city}</li>`
-//     // }
-//     // document.querySelector('main').innerHTML = output
-// }
-// getUsers()
