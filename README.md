@@ -29,8 +29,9 @@
 * Fim muito feliz api pronta em menos de 10min.
 
 ### Link base
-   * https://alunos.b7web.com.br/curso/reactjs/react-lidando-com-loading
    * https://www.udemy.com/course/curso-web/learn/lecture/10666734#overview
+### Link outra base
+   * https://alunos.b7web.com.br/curso/reactjs/react-lidando-com-loading
 
 ### Projeto associado com react
    * https://github.com/srodrigo28/react-requisicao-hooks
