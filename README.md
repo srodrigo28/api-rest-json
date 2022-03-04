@@ -1,6 +1,6 @@
 # Api simples com nodeJS
-## Esse projeto foi construido usando NodeJS 16lts
-## Passo a passo seguindo Leonardo Cod3r
+### Esse projeto foi construido usando NodeJS 16lts
+### Passo a passo seguindo Leonardo Cod3r
 * npm init -y
 * instalar a unica depedencia do projeto Json-Server
     * npm i --save json-server@0.17.0 -E
@@ -28,12 +28,12 @@
     * npm start
 * Fim muito feliz api pronta em menos de 10min.
 
-## Link base
-* https://alunos.b7web.com.br/curso/reactjs/react-lidando-com-loading
-* https://www.udemy.com/course/curso-web/learn/lecture/10666734#overview
+### Link base
+   * https://alunos.b7web.com.br/curso/reactjs/react-lidando-com-loading
+   * https://www.udemy.com/course/curso-web/learn/lecture/10666734#overview
 
-## Projeto associado com react
-* https://github.com/srodrigo28/react-requisicao-hooks
+### Projeto associado com react
+   * https://github.com/srodrigo28/react-requisicao-hooks
 
-## Consumindo uma API no Front-End
-* https://www.youtube.com/watch?v=vYlz3SmNXQQ
+### Consumindo uma API no Front-End
+   * https://www.youtube.com/watch?v=vYlz3SmNXQQ
